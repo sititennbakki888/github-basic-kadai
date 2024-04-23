@@ -29,17 +29,8 @@ mikamihiroaki@mikamihiroakis-MacBook-Pro git_challenge % git add hello_world.txt
 mikamihiroaki@mikamihiroakis-MacBook-Pro git_challenge % git commit -m "日本語訳を追記"
 [master 7657387] 日本語訳を追記
  1 file changed, 1 insertion(+)
-mikamihiroaki@mikamihiroakis-MacBook-Pro git_challenge % git log
-commit 76573878125ed20f1b30bade8a10b19e3ec9248f (HEAD -> master)
-Author: sititennbakki888 <little.circus.film.pierrot@gmail.com>
-Date:   Tue Apr 23 22:28:21 2024 +0900
 
-    日本語訳を追記
-
-commit 4fb584ea928faf509559e8031493698d59545384
-Author: sititennbakki888 <little.circus.film.pierrot@gmail.com>
-Date:   Tue Apr 23 22:19:27 2024 +0900
-
-    hello_world.txtを追加
+mikamihiroaki@mikamihiroakis-MacBook-Pro git_challenge % git log --oneline
+7657387 (HEAD -> master) 日本語訳を追記
+4fb584e hello_world.txtを追加
 mikamihiroaki@mikamihiroakis-MacBook-Pro git_challenge % 
-
